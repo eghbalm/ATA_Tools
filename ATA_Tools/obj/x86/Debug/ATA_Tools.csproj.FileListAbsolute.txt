@@ -1,0 +1,9 @@
+F:\MyProjectTemp\C#\ATA_Tools\ATA_Tools\bin\Debug\ATA_Tools.exe
+F:\MyProjectTemp\C#\ATA_Tools\ATA_Tools\bin\Debug\ATA_Tools.pdb
+F:\MyProjectTemp\C#\ATA_Tools\ATA_Tools\obj\x86\Debug\ATA_Tools.frmMain.resources
+F:\MyProjectTemp\C#\ATA_Tools\ATA_Tools\obj\x86\Debug\ATA_Tools.Properties.Resources.resources
+F:\MyProjectTemp\C#\ATA_Tools\ATA_Tools\obj\x86\Debug\ATA_Tools.csproj.GenerateResource.Cache
+F:\MyProjectTemp\C#\ATA_Tools\ATA_Tools\obj\x86\Debug\ATA_Tools.exe
+F:\MyProjectTemp\C#\ATA_Tools\ATA_Tools\obj\x86\Debug\ATA_Tools.pdb
+F:\MyProjectTemp\C#\ATA_Tools\ATA_Tools\obj\x86\Debug\ATA_Tools.csprojResolveAssemblyReference.cache
+F:\MyProjectTemp\C#\ATA_Tools\ATA_Tools\obj\x86\Debug\ATA_Tools.frmPortIoNumber.resources
